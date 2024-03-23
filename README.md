@@ -1,4 +1,4 @@
-# Image-Quote-Genraater
+# Image Quote Genraater By Shahzaib Arain
 
 This repo consists of a source code of a Python script which Create Quote Image using Pillow.
 
